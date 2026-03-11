@@ -1,4 +1,7 @@
-# AmantleM_Alpha-Dreamers-Predictive-Credit-Risk-Modeling
+# **Project By: Amantle Michelle Makati**
+# **Date of Completion: 11 March 2026**
+
+# Alpha-Dreamers-Predictive-Credit-Risk-Modeling
 
 📌 Project Objective
 The objective of this project was to develop a robust machine learning model to identify high-risk loan applicants. By leveraging Logistic Regression, this system serves as a critical filter for financial institutions, allowing them to proactively mitigate defaults by analyzing geographic, demographic, and financial risk drivers.
